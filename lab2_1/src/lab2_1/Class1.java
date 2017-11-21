@@ -10,5 +10,9 @@ public class Class1 {
 	public static void firstMethod() {
 		
 	}
+	
+	public static void secondtMethod() {
+		
+	}
 
 }
